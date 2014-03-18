@@ -1,4 +1,6 @@
-package com.vishalaksh.personal.flashlight;
+package com.vishalaksh.flashlight;
+
+import com.vishalaksh.flashlight.R;
 
 import android.app.Activity;
 import android.hardware.Camera;
